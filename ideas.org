@@ -1,0 +1,51 @@
+* Podcast Ideas (Podcast Name: Emacs Speaks?)
+** Creating Packages
+
+*** What to know
+*** Where to start
+*** Example packages? Easy to follow tuturials
+*** Simple things to start off with? Like YASnippet packages
+*** Repo or site that has random emacs ideas for packages?
+
+** Handling Package Archives, ex: Melpa
+
+*** Why create a new archive? Whats wrong with the old ones?
+*** Difficulty
+*** How did you get started
+*** How would one go about staring their own
+*** Contributing?
+
+** Community (Sacha Chua candidate?)
+
+*** Overall Friendlies
+*** Encouragement towards beginners
+*** Myth: Old hacker culture makes it difficult to change emacs?
+
+** Learning elisp
+
+*** How did you learn?
+*** Beyond the info manual
+*** Mastering Emacs book?
+
+** Running a conference (Samer would be a likely candidate)
+
+*** Why take the initiative?
+*** How hard is it to organize something this big?
+*** Where can people show their support?
+
+** Starting a emacs meetup/community
+
+*** What are steps necessary?
+*** How did you decided to do this?
+*** Fallbacks? Challenges? Fear of failing
+
+** Maintainers of Big shot packages
+
+*** Hydra
+*** Projectile (I freken love this package)
+*** Helm
+*** Maggit
+*** Irony (C/C++)
+*** Elpy (Python) One question may be... Jython Support?
+*** Eclim (Java)
+*** Challenges as a maintainer
