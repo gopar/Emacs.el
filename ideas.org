@@ -1,4 +1,12 @@
-* Podcast Ideas (Podcast Name: Emacs Speaks?)
+* Podcast Ideas
+
+** Podcast Idea Names:
+- Emacs Speaks?
+- Emacs.el?
+- Emacs Init?
+- (Require 'Emacs)?
+- Emacs Hook?
+
 ** Creating Packages
 
 - What to know
