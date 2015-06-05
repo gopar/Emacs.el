@@ -2,7 +2,7 @@
 
 ** Podcast Idea Names:
 - Emacs Speaks?
-- Emacs.el?
+- Emacs.el? (This one looks promising)
 - Emacs Init?
 - (Require 'Emacs)?
 - Emacs Hook?
@@ -14,6 +14,12 @@
 - Example packages? Easy to follow tuturials
 - Simple things to start off with? Like YASnippet packages
 - Repo or site that has random emacs ideas for packages?
+
+** Emacs for beginners
+- Interactive Tutorials
+- Where to go next after built in tutorial
+- Elisp 101
+- Using MELPA and installing packages
 
 ** Handling Package Archives, ex: Melpa
 
@@ -35,11 +41,15 @@
 - Beyond the info manual
 - Mastering Emacs book?
 
-** Running a conference (Samer would be a likely candidate)
+** Running a conference (Samer has said yes :D)
 
 - Why take the initiative?
 - How hard is it to organize something this big?
 - Where can people show their support?
+
+** Eshell
+- Samer would like to talk about this
+- Combine this talk w/ the one above? Why not
 
 ** Starting a emacs meetup/community
 
