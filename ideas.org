@@ -1,8 +1,9 @@
 * Podcast Ideas
 
 ** Podcast Idea Names:
-- Emacs Speaks?
 - Emacs.el? (This one looks promising)
+- Podmacs?
+- Emacs Speaks?
 - Emacs Init?
 - (Require 'Emacs)?
 - Emacs Hook?
@@ -56,6 +57,22 @@
 - What are steps necessary?
 - How did you decided to do this?
 - Fallbacks? Challenges? Fear of failing
+
+** Auto-complete and Company-mode showdown (Suggested by Tobias)
+- Development Status
+- Pros and Cons
+- Need to add more stuff
+
+** Evil Mode show (Suggested by Tobias)
+- Converting VIM minions to emacs saints
+- How idea got started/ History behind it
+- Current development status
+- Future plans
+
+** Transitioning from VIM to emacs (Tobias and Chris)
+- Story from converting to an emacs saint.
+- Also willing to talk about their Python and other languages setup
+- Need to add more stuff
 
 ** Maintainers of Big shot packages
 
