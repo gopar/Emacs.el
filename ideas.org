@@ -1,15 +1,5 @@
 * Podcast Ideas
 
-** Podcast Idea Names:
-- Emacs.el? (This one looks promising)
-- Podmacs?
-- Emacs Speaks?
-- Emacs Init?
-- (Require 'Emacs)?
-- Emacs Hook?
-
-*** Meta-x podcast-mode
-*** Podcast.el
 ** Creating Packages
 
 - What to know
@@ -24,7 +14,9 @@
 - Elisp 101
 - Using MELPA and installing packages
 
-*** Interview _Mastering Emacs_ author
+** Interview _Mastering Emacs_ author
+- Need to add more stuff
+
 ** Handling Package Archives, ex: Melpa
 
 - Why create a new archive? Whats wrong with the old ones?
@@ -86,16 +78,16 @@
 - Irony (C/C++)
 - Elpy (Python) One question may be... Jython Support?
 - Eclim (Java)
+- Org
+- Helm
+- Robe
+- ein (iPython notebook mode inside emacs!)
+- ERC (widely considered to be the best emacs IRC client)
+- roguel (Roguelike game written in elisp)
 - Challenges as a maintainer
 
-*** Org
-*** Helm
-*** Robe
-*** ein (iPython notebook mode inside emacs!)
-*** ERC (widely considered to be the best emacs IRC client)
-*** roguel (Roguelike game written in elisp)
 ** Interview FSF old timers about emacs
-*** Richard Stallman (RMS)
-*** Noah Friedman (ERC co-author, long time FSF staffer, lots else :)
-*** Roland Mcgrath (Ditto.)
-*** RMS & Noah could probably recommend others)
+- Richard Stallman (RMS)
+- Noah Friedman (ERC co-author, long time FSF staffer, lots else :)
+- Roland Mcgrath (Ditto.)
+- RMS & Noah could probably recommend others)
