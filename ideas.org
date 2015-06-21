@@ -69,6 +69,15 @@
 - Also willing to talk about their Python and other languages setup
 - Need to add more stuff
 
+** Different forks of emacs
+- Spacemacs
+- XEmacs
+- Too lazy to check for others.
+
+** Political and religious about emacs and it's future
+- Kinda like this [[https://www.reddit.com/r/programming/comments/2rtumb/current_emacs_maintainer_disagrees_with_rms_id_be/][one]]
+- Mmm maybe not a good idea? Don't know much about this stuff.
+
 ** Maintainers of Big shot packages
 
 - Hydra
