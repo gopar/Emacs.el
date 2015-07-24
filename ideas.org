@@ -69,6 +69,12 @@
 - Also willing to talk about their Python and other languages setup
 - Need to add more stuff
 
+** Unit Testing Elisp Frameworks
+- Need to add more stuff
+
+** Developing Games in Elisp
+- Need to add more stuff
+
 ** Different forks of emacs
 - Spacemacs
 - XEmacs
