@@ -25,11 +25,11 @@
 - How would one go about staring their own
 - Contributing?
 
-** Community (Sacha Chua candidate?)
+** +Community (Sacha Chua candidate?)+ (Done)
 
-- Overall Friendlies
-- Encouragement towards beginners
-- Myth: Old hacker culture makes it difficult to change emacs?
+- +Overall Friendlies+
+- +Encouragement towards beginners+
+- +Myth: Old hacker culture makes it difficult to change emacs?+
 
 ** Learning elisp
 
@@ -37,15 +37,15 @@
 - Beyond the info manual
 - Mastering Emacs book?
 
-** Running a conference (Samer has said yes :D)
+** +Running a conference (Samer has said yes :D)+ (Done)
 
-- Why take the initiative?
-- How hard is it to organize something this big?
-- Where can people show their support?
+- +Why take the initiative?+
+- +How hard is it to organize something this big?+
+- +Where can people show their support?+
 
-** Eshell
-- Samer would like to talk about this
-- Combine this talk w/ the one above? Why not
+** +Eshell+ (Done)
+- +Samer would like to talk about this+
+- +Combine this talk w/ the one above? Why not+
 
 ** Starting a emacs meetup/community
 
