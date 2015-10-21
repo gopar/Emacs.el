@@ -111,8 +111,7 @@
 - Irony (C/C++)
 - Elpy (Python) One question may be... Jython Support?
 - Eclim (Java)
-- Org
-- Helm
+- Org (Carsten Dominik, Bastien Guerry)
 - Robe
 - ein (iPython notebook mode inside emacs!)
 - ERC (widely considered to be the best emacs IRC client)
