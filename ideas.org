@@ -83,7 +83,7 @@
 - Probably more...
 
 ** Different forks of emacs
-- Spacemacs
+- Aquamacs (Emacs for OSX)
 - XEmacs
 - Too lazy to check for others.
 
