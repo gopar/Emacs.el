@@ -75,32 +75,43 @@
 ** Developing Games in Elisp
 - Need to add more stuff
 
+** Funny Emacs
+- doctor
+- life
+- animate-birthday-present
+- butterfly
+- Probably more...
+
 ** Different forks of emacs
-- Spacemacs
+- Aquamacs (Emacs for OSX)
 - XEmacs
 - Too lazy to check for others.
+
+** Emacs ``Starters''
+- Spacemacs
+- Prelude
+- Emacs Starter Kit
+- Awesome Emacs (kinda?)
 
 ** Political and religious about emacs and it's future
 - Kinda like this [[https://www.reddit.com/r/programming/comments/2rtumb/current_emacs_maintainer_disagrees_with_rms_id_be/][one]]
 - Mmm maybe not a good idea? Don't know much about this stuff.
 
-** Exercism.io Eslip Track
+** Exercism.io Emacs Lisp Track
 - Introduction to exercism.io
 - Types of questions
 - What to create/grow out of creating an elisp track
 - Need to add more stuff
 
 ** Maintainers of Big shot packages
-
 - Hydra
 - Projectile (I freken love this package)
 - Helm
-- Maggit
+- Magit
 - Irony (C/C++)
 - Elpy (Python) One question may be... Jython Support?
 - Eclim (Java)
-- Org
-- Helm
+- Org (Carsten Dominik, Bastien Guerry)
 - Robe
 - ein (iPython notebook mode inside emacs!)
 - ERC (widely considered to be the best emacs IRC client)
