@@ -104,11 +104,10 @@
 - Need to add more stuff
 
 ** Maintainers of Big shot packages
-
 - Hydra
 - Projectile (I freken love this package)
 - Helm
-- Maggit
+- Magit
 - Irony (C/C++)
 - Elpy (Python) One question may be... Jython Support?
 - Eclim (Java)
