@@ -75,6 +75,13 @@
 ** Developing Games in Elisp
 - Need to add more stuff
 
+** Funny Emacs
+- doctor
+- life
+- animate-birthday-present
+- butterfly
+- Probably more...
+
 ** Different forks of emacs
 - Spacemacs
 - XEmacs
