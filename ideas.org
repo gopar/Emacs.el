@@ -88,6 +88,11 @@
 ** Different forks of emacs
 - Aquamacs (Emacs for OSX)
 - XEmacs
+  + Stephen Turnbull
+    + XEmacs history
+    + why someone should consider XEmacs today
+    + navigating lisp challenges
+- jed (and S-Lang)
 - Too lazy to check for others.
 
 ** Emacs ``Starters''
@@ -129,3 +134,4 @@
 - Noah Friedman (ERC co-author, long time FSF staffer, lots else :)
 - Roland Mcgrath (Ditto.)
 - RMS & Noah could probably recommend others)
+
