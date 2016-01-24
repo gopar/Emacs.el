@@ -13,6 +13,8 @@
 - Where to go next after built in tutorial
 - Elisp 101
 - Using MELPA and installing packages
+- Resources to subscribe/follow like blogs, social media accounts etc
+- Must have packages
 
 ** Interview _Mastering Emacs_ author
 - Need to add more stuff
@@ -83,6 +85,7 @@
 - life
 - animate-birthday-present
 - butterfly
+- Emacs appearances in film and TV
 - Probably more...
 
 ** Different forks of emacs
@@ -100,6 +103,7 @@
 - Prelude
 - Emacs Starter Kit
 - Awesome Emacs (kinda?)
+- Sane Defaults
 
 ** Political and religious about emacs and it's future
 - Kinda like this [[https://www.reddit.com/r/programming/comments/2rtumb/current_emacs_maintainer_disagrees_with_rms_id_be/][one]]
