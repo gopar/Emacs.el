@@ -139,3 +139,20 @@
 - Roland Mcgrath (Ditto.)
 - RMS & Noah could probably recommend others)
 
+** System Crafters interview
+- Starting a youtube carreer https://www.youtube.com/c/SystemCrafters/featured
+
+** LSP
+- https://github.com/emacs-lsp/lsp-mode
+
+** Eglot
+- https://github.com/joaotavora/eglot
+
+** All the new completion frameworks
+
+** Nicolas P. Rougier 
+- Creator of Nano Emacs
+- And a lot of other goodies https://github.com/rougier?tab=repositories
+
+** EWW
+- Gotta give this package more credit with shr enabled + org mode like
