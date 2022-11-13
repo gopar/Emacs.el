@@ -26,6 +26,7 @@
 - How did you get started
 - How would one go about staring their own
 - Contributing?
+- Security? (Typo squatting, update package to be malicious once in some archive)
 
 ** +Community (Sacha Chua candidate?)+ (Done)
 
